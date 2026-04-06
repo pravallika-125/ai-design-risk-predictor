@@ -1,6 +1,6 @@
 # ai-design-risk-predictor
 ## Live Demo
-[Open Live Application](https://ai-design-risk-predictor-awft4jwwmsgqmlmkxaekyy.streamlit.app/)
+[Click here to open app](https://ai-design-risk-predictor-awft4jwwmsggmlmkxaekyy.streamlit.app/)
 Machine learning-based application to analyze design parameters and predict potential risks for improved engineering quality and reliability.
 ## Overview
 This project is a machine learning-based system that analyzes engineering design parameters such as length, load, and material to predict potential risk levels. It simulates quality assurance processes used in engineering software to identify design issues early.
