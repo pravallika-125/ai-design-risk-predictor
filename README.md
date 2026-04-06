@@ -32,3 +32,5 @@ length = 80, load = 900, material = steel
 Output:
 Predicted Risk: High
 High risk. Review design parameters.
+## Output Screenshot
+![Output](output.png)
