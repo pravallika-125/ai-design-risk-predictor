@@ -1,0 +1,9 @@
+length,load,material,risk
+10,100,steel,low
+20,200,steel,low
+50,500,steel,medium
+80,800,steel,high
+30,300,aluminum,medium
+70,900,aluminum,high
+15,150,steel,low
+90,1000,aluminum,high
